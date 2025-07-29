@@ -1,12 +1,16 @@
 # FISIOTERAPIA-RESPIRATORIA
 La fisioterapia respiratoria es una rama de la fisioterapia que se enfoca en tratar y prevenir alteraciones del sistema respiratorio, con el objetivo de mejorar la ventilación, el intercambio gaseoso, la función muscular respiratoria y la calidad de vida del paciente.
+
 ![Fisioterapia Respiratoria](https://github.com/user-attachments/assets/b4fcd5bf-7451-4c61-bc5d-608baa088ef7)
+
 - Pinterest. Respiratory Therapist [Internet]. s.f. [citado 2025 jul 29]. Disponible en: https://www.pinterest.com/pin/respiratory-therapist--123456789012345678/
 
 **¿Qué papel cumple un fisioterapeuta en la terapia respiratoria?**
 El fisioterapeuta respiratorio es el profesional especializado en evaluar, tratar y educar a pacientes con alteraciones del sistema respiratorio. Su papel es esencial para mejorar la función pulmonar, reducir síntomas como la disnea y prevenir complicaciones respiratorias, especialmente en pacientes con enfermedades crónicas o postoperatorias.
 Conocimiento clínico especializado en anatomía y fisiopatología respiratoria.
+
 <img width="305" height="203" alt="image" src="https://github.com/user-attachments/assets/a2543f3d-175b-4bb8-85d2-5b41e3d40da7" />
+
 Pinterest. Fisioterapia respiratoria. [Internet]. s.f. [citado 2025 Jul 29]. Disponible en: https://www.pinterest.com/pin/xxxxxxx
 
 **Características del fisioterapeuta en terapia respiratoria**
@@ -20,7 +24,9 @@ Mejora de mecánica ventilatoria, volumen pulmonar y difusión de gases.
 Facilitación de la eliminación de secreciones para prevenir infecciones respiratorias.
 Interviene en EPOC, asma, fibrosis quística, pacientes post‑operatorios y críticos.
 Otorga educación terapéutica continua al paciente y su familia para manejo sostenible.
+
 <img width="736" height="952" alt="image" src="https://github.com/user-attachments/assets/ebf92a00-7582-4a16-a9d6-6ac97581cf52" />
+
 Fallbrook Medical Center. ¿Cómo fortalecer tus pulmones? Respira mejor [Internet]. s.f. [citado 2025 Jul 29]. Disponible en: https://www.pinterest.com/pin/XXXXXX
 
 **Referencias**
